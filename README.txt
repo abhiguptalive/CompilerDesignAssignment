@@ -1,4 +1,4 @@
-Assignment Title: To Store the details of Identifier in Symbol 
+Assignment Title: To Store the details of Identifier in Symbol Table  
 
 Author: 
 
